@@ -13,5 +13,7 @@ Este é um projeto para rodar testes Magico de Oz usando a funcionalidade de voz
 4. Pressione as teclas para ouvir as frases. Feche a janela para cancelar. 
 
 Software criado por @bensauer. 
+
 Obrigado a @jonesabi do Google pela ideia.
+
 Traduzido por @danielsouza
